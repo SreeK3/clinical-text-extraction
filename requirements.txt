@@ -1,0 +1,8 @@
+transformers
+torch
+fastapi
+uvicorn
+scikit-learn
+spacy
+seqeval
+requests
